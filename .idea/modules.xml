@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Mockup.iml" filepath="$PROJECT_DIR$/Mockup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seeketch.iml" filepath="$PROJECT_DIR$/Seeketch.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

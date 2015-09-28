@@ -1,4 +1,4 @@
-package org.eu.transfusion.mockup;
+package org.eu.transfusion.seeketch;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
